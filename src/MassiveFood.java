@@ -5,7 +5,7 @@ public class MassiveFood {
             System.out.println(s);
         for (String s : food) {
             if (s.startsWith("м"))
-                System.out.print(s + " начинается с с, ");
+                System.out.print(s + " начинается с к, ");
         }
     }
 }
